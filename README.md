@@ -20,8 +20,8 @@ Hey there, I'm Ciprian 👋 – a 42-year-old digital creator and coding enthusi
 - Always exploring, always engaging, always evolving.
 
 ### 📫 Let's Connect:
-- For daily updates and a peek into my life, follow me on [Instagram](#) and [LinkedIn](#).
-- Keen on my professional journey? Let's connect on [LinkedIn](#) and [YouTube](#).
+- For daily updates and a peek into my life, follow me on [Instagram](instagram.com/ItisCiprian) and [LinkedIn](https://www.linkedin.com/in/ionutcipriananescu/).
+- Keen on my professional journey? Let's connect on [LinkedIn](https://www.linkedin.com/in/ionutcipriananescu/) and [YouTube](https://www.youtube.com/@ItIsCiprian).
 - For a deeper dive, check out my [blog](#) and [website](#).
 - Want to talk tech or just say hi? DM me on Instagram or LinkedIn.
 - For professional collaborations, drop an email at [ionutcipriananescu@gmail.com](mailto:ionutcipriananescu@gmail.com).
