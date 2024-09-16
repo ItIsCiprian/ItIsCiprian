@@ -1,7 +1,7 @@
 # ItIsCiprian
 ## Welcome to my digital playground! 🚀
 
-Hey there, I'm Ciprian 👋 – a 42-year-old digital creator and coding enthusiast based in Toronto. My world revolves around crafting exceptional digital experiences and living the #NerdLife 🤓✨.
+Hey there, I'm Ciprian 👋 – a 42-year-old digital creator and coding enthusiast based in Bucharest. My world revolves around crafting exceptional digital experiences and living the #NerdLife 🤓✨.
 
 ### 🌟 What I'm About:
 - **By day:** I'm a Test Engineer brewing endless cups of coffee ☕ and tackling challenges with a keen eye for detail.
