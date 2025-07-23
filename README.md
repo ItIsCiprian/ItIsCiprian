@@ -50,20 +50,23 @@
 <a target="_blank" href="https://stackoverflow.com/users/4796273/ionut-ciprian-anescu" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ItisCiprian&show_icons=true&locale=en" alt="ItisCiprian" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItisCiprian&" alt="ItisCiprian" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact" alt="ItisCiprian" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact" alt="ItisCiprian" />
+</p>
+
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&theme=onedark" alt="GitHub trophies for ItisCiprian" />
   </a>
 </p>
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://buymeacoffee.com/ionutciprix">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-</p>
 
+<h2>❤️ Support Me</h2>
+
+<p>
+  <a href="https://buymeacoffee.com/ionutciprix">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me a Coffee" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake-dark.svg" />
