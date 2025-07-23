@@ -46,7 +46,7 @@
 <a target="_blank" href="https://www.facebook.com/ItisCiprian" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/itisciprian/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://medium.com/@cipriananescu" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-<a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@ItIsCiprian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
+<a target="_blank" href="https://www.youtube.com/@itisciprian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/4796273/ionut-ciprian-anescu" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ItisCiprian&show_icons=true&locale=en" alt="ItisCiprian" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItisCiprian&" alt="ItisCiprian" /></p>
