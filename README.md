@@ -54,8 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact" alt="ItisCiprian" />
 </p>
 
-[![GitHub trophies for ItisCiprian](https://github-profile-trophy.vercel.app/?username=ItisCiprian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub trophies for ItisCiprian](https://github-profile-trophy.vercel.app/?username=ItisCiprian&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>❤️ Support Me</h2>
 
