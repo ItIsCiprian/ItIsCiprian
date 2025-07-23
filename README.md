@@ -54,10 +54,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact" alt="ItisCiprian" />
 </p>
 
-[![GitHub trophies for ItisCiprian](https://github-profile-trophy.vercel.app/?username=ItisCiprian&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<h2>🏆 GitHub Trophies</h2>
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&no-bg=true" alt="GitHub trophies for ItisCiprian" />
+  </a>
+</p>
 
 <h2>❤️ Support Me</h2>
-
 <p>
   <a href="https://buymeacoffee.com/ionutciprix">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me a Coffee" />
