@@ -54,18 +54,21 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItisCiprian&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItisCiprian&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItisCiprian&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItisCiprian&theme=dracula" alt="GitHub Streak" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+
 <h2>🏆 GitHub Trophies</h2>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&no-bg=true" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&theme=dracula&no-frame=true&margin-w=15" alt="GitHub trophies" />
   </a>
 </p>
 <h2>❤️ Support Me</h2>
