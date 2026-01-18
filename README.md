@@ -43,7 +43,7 @@
 ### ⚡️ Where to find me
 
 <p align="center">
-  <a href="https://x.com/Itisciprian"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://x.com/Itisciprian"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
   <a href="https://dev.to/ItisCiprian"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
   <a href="https://www.linkedin.com/in/ionutcipriananescu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/ItisCiprian"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -53,19 +53,23 @@
   <a href="https://stackoverflow.com/users/4796273/ionut-ciprian-anescu"><img src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ItisCiprian&show_icons=true&locale=en" alt="ItisCiprian" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItisCiprian&" alt="ItisCiprian" /></p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact" alt="ItisCiprian" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItisCiprian&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItisCiprian&" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <h2>🏆 GitHub Trophies</h2>
-<p>
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&no-bg=true" alt="GitHub trophies for ItisCiprian" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&no-bg=true" alt="GitHub trophies" />
   </a>
 </p>
 <h2>❤️ Support Me</h2>
-<p>
+<p align="left">
   <a href="https://buymeacoffee.com/ionutciprix">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me a Coffee" />
   </a>
