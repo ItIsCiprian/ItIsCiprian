@@ -58,7 +58,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItisCiprian&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ItisCiprian&theme=dracula" alt="GitHub Streak" />
 </p>
 
 <p align="left">
@@ -67,10 +67,9 @@
 
 <h2>🏆 GitHub Trophies</h2>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&theme=dracula&no-frame=true&margin-w=15" alt="GitHub trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&theme=dracula&no-frame=true&margin-w=15" alt="GitHub trophies" />
 </p>
+
 <h2>❤️ Support Me</h2>
 <p align="left">
   <a href="https://buymeacoffee.com/ionutciprix">
