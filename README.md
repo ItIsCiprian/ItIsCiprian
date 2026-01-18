@@ -1,5 +1,5 @@
-<<h1>Welcome to my digital playground! 🚀</h1>
-<p>🚀  Hey there, I'm Ciprian 👋 – a 44-year-old digital creator and coding enthusiast based in Bucharest. My world revolves around crafting exceptional digital experiences and living the #NerdLife 🤓✨.  🌟 What I'm About:  By day, I'm a Test Engineer brewing endless cups of coffee ☕ and tackling challenges with a keen eye for detail. By night, I become a passionate coder 🌙, diving into full-stack development and exploring the limitless tech world. Gym enthusiast 💪: Balancing code and caffeine with fitness. Streamer: I stream my nerdy adventures in gaming and coding 🎮 – join me on this journey! 🔭 My Current Endeavours:  Leading and learning in full-stack development projects, constantly pushing the boundaries. Experimenting with diverse tools and libraries, ever-expanding my tech toolkit. An early riser and lifelong learner, thriving in the fast-paced tech landscape. ✨ A Glimpse Into My World:  Childhood dream: Surgeon – now healing bugs in code! A proud Mac user, having leaped from Windows. Always exploring, always engaging, always evolving.</p>
+<h1>Welcome to my digital playground! 🚀</h1>
+<p>🚀 Hey there, I'm Ciprian 👋 – a 44-year-old digital creator and coding enthusiast based in Bucharest. My world revolves around crafting exceptional digital experiences and living the #NerdLife 🤓✨. 🌟 What I'm About: By day, I'm a Test Engineer brewing endless cups of coffee ☕ and tackling challenges with a keen eye for detail. By night, I become a passionate coder 🌙, diving into full-stack development and exploring the limitless tech world. Gym enthusiast 💪: Balancing code and caffeine with fitness. Streamer: I stream my nerdy adventures in gaming and coding 🎮 – join me on this journey! 🔭 My Current Endeavours: Leading and learning in full-stack development projects, constantly pushing the boundaries. Experimenting with diverse tools and libraries, ever-expanding my tech toolkit. An early riser and lifelong learner, thriving in the fast-paced tech landscape. ✨ A Glimpse Into My World: Childhood dream: Surgeon – now healing bugs in code! A proud Mac user, having leaped from Windows. Always exploring, always engaging, always evolving.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -39,35 +39,37 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://x.com/Itisciprian" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://dev.to/ItisCiprian" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/ionutcipriananescu/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/ItisCiprian" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/itisciprian/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://medium.com/@cipriananescu" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-<a target="_blank" href="https://www.youtube.com/@itisciprian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/4796273/ionut-ciprian-anescu" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+
+### ⚡️ Where to find me
+
+<p align="center">
+  <a href="https://x.com/Itisciprian"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://dev.to/ItisCiprian"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
+  <a href="https://www.linkedin.com/in/ionutcipriananescu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/ItisCiprian"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/itisciprian/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://medium.com/@cipriananescu"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.youtube.com/@itisciprian"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://stackoverflow.com/users/4796273/ionut-ciprian-anescu"><img src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ItisCiprian&show_icons=true&locale=en" alt="ItisCiprian" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItisCiprian&" alt="ItisCiprian" /></p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact" alt="ItisCiprian" />
 </p>
-
 <h2>🏆 GitHub Trophies</h2>
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&no-bg=true" alt="GitHub trophies for ItisCiprian" />
   </a>
 </p>
-
 <h2>❤️ Support Me</h2>
 <p>
   <a href="https://buymeacoffee.com/ionutciprix">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me a Coffee" />
   </a>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake.svg" />
