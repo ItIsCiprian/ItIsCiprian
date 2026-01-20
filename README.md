@@ -70,7 +70,7 @@
 
 <h2>🏆 GitHub Trophies</h2>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&theme=dracula&no-frame=true&margin-w=15&v=1" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&v=1" alt="GitHub trophies" />
 </p>
 
 <h2>❤️ Support Me</h2>
