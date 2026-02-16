@@ -98,16 +98,12 @@
 
 ### 🎵 Currently Listening
 <p align="center">
-  <!-- This is the exact offline card style most people (including xcodecat-style profiles) use when not listening -->
   <img src="https://raw.githubusercontent.com/novatorem/novatorem/master/assets/offline.svg" alt="Spotify Currently Listening" />
 </p>
 
-<!-- To get the LIVE version (shows current song + album art when playing, or the clean "not playing" card when offline):
-     1. Go to https://github.com/kittinan/spotify-github-profile
-     2. Fork it
-     3. Create a Spotify Developer app → get Client ID & Secret
-     4. Generate a refresh token
-     5. Deploy on Vercel (free) and add the env vars
-     6. Replace the src above with your deployed URL, e.g.:
-        <img src="https://your-project.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&theme=novatorem" />
-     This will look *exactly* like the modern profiles you showed. -->
+<!-- GitHub Contribution Snake (added back!) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake-dark.svg" />
+</picture>
