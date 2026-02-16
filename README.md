@@ -92,6 +92,8 @@
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
 </p>
 
 ### 🎵 Currently Listening
@@ -101,11 +103,11 @@
 </p>
 
 <!-- To get the LIVE version (shows current song + album art when playing, or the clean "not playing" card when offline):
-     1. Go to https://github.com/kittinan/spotify-github-profile (the one you mentioned)
+     1. Go to https://github.com/kittinan/spotify-github-profile
      2. Fork it
      3. Create a Spotify Developer app → get Client ID & Secret
-     4. Generate a refresh token (use an online tool or the repo instructions)
+     4. Generate a refresh token
      5. Deploy on Vercel (free) and add the env vars
      6. Replace the src above with your deployed URL, e.g.:
         <img src="https://your-project.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&theme=novatorem" />
-     This will look *exactly* like the modern profiles you showed in the screenshots. Super easy and takes ~10 minutes! -->
+     This will look *exactly* like the modern profiles you showed. -->
