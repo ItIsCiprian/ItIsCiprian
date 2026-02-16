@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 #### 📱 Mobile
@@ -83,9 +84,25 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Final_Cut_Pro-000000?style=for-the-badge&logo=finalcutpro&logoColor=white" alt="Final Cut Pro" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
+  <img src="https://img.shields.io/badge/Affinity_Photo-7B4DFF?style=for-the-badge&logo=affinity-photo&logoColor=white" alt="Affinity Photo" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+#### ⚙️ IDEs & Editors
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white" alt="Zed" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Ghostty-1E293B?style=for-the-badge&logoColor=white" alt="Ghostty" />
+  <img src="https://img.shields.io/badge/Antigravity-808080?style=for-the-badge&logoColor=white" alt="Antigravity" />
 </p>
 
 #### 🖥️ Operating Systems
@@ -101,7 +118,6 @@
   <img src="https://raw.githubusercontent.com/novatorem/novatorem/master/assets/offline.svg" alt="Spotify Currently Listening" />
 </p>
 
-<!-- GitHub Contribution Snake (added back!) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake.svg" />
