@@ -1,37 +1,10 @@
-# 👋 Hey there, I'm Ciprian!
+# 👋 Hey there, I'm Ciprian (@ItisCiprian)!
 
-🚀 **45-year-old digital creator & coding enthusiast** from Bucharest, Romania  
-🤓 Living the #NerdLife • Proud Mac user 🍎  
-
-☕ By day → Test Engineer, brewing coffee and hunting bugs  
-🌙 By night → Full-stack developer pushing boundaries  
-💪 Gym enthusiast keeping the balance  
-🎮 Streamer sharing coding & gaming adventures  
-
-🩺 Childhood dream: Surgeon → Now healing code one bug at a time
-
-### 💻 Tech Stack
-
-#### 🔵 Languages
-TypeScript • JavaScript • Python
-
-#### 🌐 Frontend
-Angular • Vue.js • React • Svelte • Next.js • Gatsby • Tailwind CSS • HTML5 • CSS3
-
-#### 🔙 Backend & Runtimes
-Node.js • Bun • Spring • Django
-
-#### 🗃️ Databases
-MongoDB • PostgreSQL • MySQL • SQLite • Microsoft SQL Server
-
-#### ☁️ DevOps & Cloud
-Docker • Kubernetes • Jenkins • AWS • Azure
-
-#### 📱 Mobile
-Flutter • Dart • React Native • Android
-
-#### 🛠️ Tools & Others
-Git • Postman • Figma • Photoshop • Illustrator • Electron • TensorFlow • Linux • Bash
+🚀 45-year-old digital creator & coding enthusiast from Bucharest 🇷🇴  
+🤓 Living the #NerdLife – Test Engineer by day, full-stack developer & streamer by night  
+☕ Coffee addict • 💪 Gym enthusiast • 🍎 Proud Mac user (escaped from Windows!)  
+🎮 Streaming coding sessions and gaming adventures  
+🩺 Childhood dream: Surgeon → Now healing bugs in code ✨
 
 ### 🌐 Where to find me
 <p align="center">
@@ -48,31 +21,31 @@ Git • Postman • Figma • Photoshop • Illustrator • Electron • TensorF
   <a href="https://www.linkedin.com/in/ionutcipriananescu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItisCiprian&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ItisCiprian&theme=dracula" alt="GitHub Streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItisCiprian&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+### 🖥️ Tech Stack
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItisCiprian&theme=dracula&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub trophies" />
-</p>
+#### 🔵 Languages
+![Languages](https://skill-icons.dev/icons?i=ts,js,py&theme=dark)
 
-### ❤️ Support Me
-<p align="left">
-  <a href="https://buymeacoffee.com/ionutciprix">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me a Coffee" />
-  </a>
-</p>
+#### 🌐 Frontend
+![Frontend](https://skill-icons.dev/icons?i=html,css,tailwind,angular,vue,react,svelte,nextjs,gatsby&theme=dark&perline=6)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ItisCiprian/ItisCiprian/output/github-snake-dark.svg" />
-</picture>
+#### 🔙 Backend
+![Backend](https://skill-icons.dev/icons?i=nodejs,bun,spring,django&theme=dark)
+
+#### 🗃️ Databases
+![Databases](https://skill-icons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark)
+
+#### 🚀 DevOps & Cloud
+![DevOps](https://skill-icons.dev/icons?i=docker,kubernetes,jenkins,aws,azure&theme=dark)
+
+#### 📱 Mobile
+![Mobile](https://skill-icons.dev/icons?i=flutter,dart,react,android&theme=dark)
+
+#### 🎨 Design Tools
+![Design](https://skill-icons.dev/icons?i=figma,ps,ai&theme=dark)
+
+#### 🛠️ Other Tools
+![Tools](https://skill-icons.dev/icons?i=git,postman,electron,tensorflow,bash&theme=dark)
+
+#### 🖥️ Platforms
+![Platforms](https://skill-icons.dev/icons?i=apple,linux,windows&theme=dark)
