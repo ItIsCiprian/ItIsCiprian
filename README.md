@@ -19,8 +19,8 @@
   <a href="https://medium.com/@cipriananescu"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://stackoverflow.com/users/4796273/ionut-ciprian-anescu"><img src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.linkedin.com/in/ionutcipriananescu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- Replace with your actual Spotify profile URL -->
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <!-- Spotify profile badge – replace the href with your actual Spotify profile URL -->
+  <a href="https://open.spotify.com/user/REPLACE_WITH_YOUR_SPOTIFY_USER_ID"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </p>
 
 ### 🖥️ Tech Stack
@@ -96,11 +96,16 @@
 
 ### 🎵 Currently Listening
 <p align="center">
-  <!-- This shows the exact "offline" card style that xcodecat uses (from the popular novatorem project) -->
-  <img src="https://raw.githubusercontent.com/novatorem/novatorem/master/assets/offline.svg" alt="Spotify Offline" />
+  <!-- This is the exact offline card style most people (including xcodecat-style profiles) use when not listening -->
+  <img src="https://raw.githubusercontent.com/novatorem/novatorem/master/assets/offline.svg" alt="Spotify Currently Listening" />
 </p>
-<!-- To make it live (show current song when playing):
-     1. Fork https://github.com/novatorem/novatorem
-     2. Deploy on Vercel (free)
-     3. Add your Spotify Client ID, Client Secret, and Refresh Token in Vercel env vars
-     4. Replace the src above with: https://your-deployment.vercel.app/api/spotify -->
+
+<!-- To get the LIVE version (shows current song + album art when playing, or the clean "not playing" card when offline):
+     1. Go to https://github.com/kittinan/spotify-github-profile (the one you mentioned)
+     2. Fork it
+     3. Create a Spotify Developer app → get Client ID & Secret
+     4. Generate a refresh token (use an online tool or the repo instructions)
+     5. Deploy on Vercel (free) and add the env vars
+     6. Replace the src above with your deployed URL, e.g.:
+        <img src="https://your-project.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&theme=novatorem" />
+     This will look *exactly* like the modern profiles you showed in the screenshots. Super easy and takes ~10 minutes! -->
