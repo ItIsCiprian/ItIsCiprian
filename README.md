@@ -115,7 +115,9 @@
 
 ### 🎵 Currently Listening
 <p align="center">
-  <img src="https://raw.githubusercontent.com/novatorem/novatorem/master/assets/offline.svg" alt="Spotify Currently Listening" />
+  <a href="https://open.spotify.com/user/21t7e63foi3dy62mwqlmyzi7y">
+    <img src="https://novatorem-pi-self.vercel.app/api/spotify" alt="Spotify Currently Listening" width="350" />
+  </a>
 </p>
 
 <picture>
