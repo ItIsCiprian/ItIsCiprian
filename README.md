@@ -19,8 +19,7 @@
   <a href="https://medium.com/@cipriananescu"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://stackoverflow.com/users/4796273/ionut-ciprian-anescu"><img src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.linkedin.com/in/ionutcipriananescu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- Spotify profile badge – replace the href with your actual Spotify profile URL -->
-  <a href="https://open.spotify.com/user/REPLACE_WITH_YOUR_SPOTIFY_USER_ID"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <a href="https://open.spotify.com/user/21t7e63foi3dy62mwqlmyzi7y"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </p>
 
 ### 🖥️ Tech Stack
@@ -116,7 +115,7 @@
 ### 🎵 Currently Listening
 <p align="center">
   <a href="https://open.spotify.com/user/21t7e63foi3dy62mwqlmyzi7y">
-    <img src="https://novatorem-pi-self.vercel.app/api/spotify" alt="Spotify Currently Listening" width="350" />
+    <img src="https://novatorem-pi-self.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
   </a>
 </p>
 
