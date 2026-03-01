@@ -114,8 +114,8 @@
 
 ### 🎵 Currently Listening
 <p align="center">
-  <a href="https://open.spotify.com/user/21t7e63foi3dy62mwqlmyzi7y">
-    <img src="https://novatorem-pi-self.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21t7e63foi3dy62mwqlmyzi7y&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21t7e63foi3dy62mwqlmyzi7y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
